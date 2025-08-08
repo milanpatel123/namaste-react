@@ -51,3 +51,8 @@ Two types of export/import
 -normal js utility function
 -useState() - super powerful state variable in react
 -useEffect() -
+
+# 2 types routing in web apps
+
+-Client side routing
+-Server side routing
